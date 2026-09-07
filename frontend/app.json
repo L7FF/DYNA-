@@ -1,3 +1,1 @@
-{
-  "expo":{"name":"Vakalat","slug":"vakalat-app","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","web":{"favicon":"./assets/favicon.png"},"ios":{"supportsTablet":true},"android":{"adaptiveIcon":{"backgroundColor":"#E6F4FE","foregroundImage":"./assets/android-icon-foreground.png","backgroundImage":"./assets/android-icon-background.png","monochromeImage":"./assets/android-icon-monochrome.png"}}}
-}
+{"expo":{"name":"Vakalat","slug":"vakalat-app","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"light","ios":{"supportsTablet":true},"web":{}}}
